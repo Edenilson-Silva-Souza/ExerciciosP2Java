@@ -1,5 +1,5 @@
 # Exercícios de POO
-### Olá, Bem-vindo ao meu repositório de Execícios POO
+### Olá, Bem-vindo ao meu repositório de Exercícios POO
 
 
 * 1-Agenda de eventos com interface gráfica.
