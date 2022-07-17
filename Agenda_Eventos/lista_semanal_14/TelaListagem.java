@@ -65,7 +65,7 @@ public class TelaListagem extends JFrame {
 				}
 				
 				if(cliques>=2) {
-					int opcao = JOptionPane.showConfirmDialog(null, "Deseja excluir?","Exculir componente",JOptionPane.YES_OPTION, JOptionPane.PLAIN_MESSAGE);
+					int opcao = JOptionPane.showConfirmDialog(null, "Deseja excluir?","Excluir evento?",JOptionPane.YES_OPTION, JOptionPane.PLAIN_MESSAGE);
 					
 					if(opcao==0) {
 						event.remove(tabela.getSelectedRow());
